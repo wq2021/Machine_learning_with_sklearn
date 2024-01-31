@@ -15,6 +15,6 @@ Generally, a Machine Learning project is composed of the following steps:
     <li>Model Monitoring</li>
 </ol>
 
-We can find a detailed explanation of each referenced step in the [Jupyter Notebook file](ML_project.ipynb).
+You can find a detailed explanation of each referenced step in the [Jupyter Notebook file](ML_project.ipynb).
 
 
